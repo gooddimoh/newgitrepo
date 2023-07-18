@@ -1,0 +1,17 @@
+{
+    "name": "dmitriybalovnev/phpnative",
+    "autoload": {
+        "psr-4": {
+            "Dmitriybalovnev\\Phpnative\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitriy Balovnev",
+            "email": "gooddimoh@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-mysqli": "*"
+    }
+}
